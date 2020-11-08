@@ -14,12 +14,12 @@ yellow='\e[1;33m'
 white='\e[1;37m'
 
 clear
-echo \e[1;37m"
-echo "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ID.Jeky▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬" 
-echo "[✓] Author : ID Jekky"
-echo "[✓] Youtobe : ID Jekky"
-echo "[✓] Team : Bertobat" 
-echo "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+echo "\e[1;37m
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ID.Jeky▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬" 
+[✓] Author : ID Jekky"
+[✓] Youtobe : ID Jekky"
+[✓] Team : Bertobat" 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
 echo "[1] Hack wifi" 
 echo "[2] Hack Instagram" 
 echo "[3] Red Hack" 
@@ -38,6 +38,7 @@ then
     cd wifite
     chmod +x wifite.py
     python wifite.py
+    fi
 elif [ $pilih = "2" ]
 then
     echo "Sedang Menginstall tunggu bentar Instagram..." 
@@ -53,6 +54,7 @@ then
     cd bot-igeh1
     unzip node_modules.zip
     node index
+    fi
 elif [ $pilih = "3" ]
 then 
     echo "Sedang Menginstall tunggu bentar redhack..."
@@ -65,6 +67,7 @@ then
     echo "Menginstall Selasai Ganteng..." 
     cd RED_HAWK
     php rhawk.php
+    fi
 elif [ $pilih = "4" ]
 then 
     echo "Sedang Menginstall tunggu bentar redhack..."
@@ -79,6 +82,7 @@ then
     echo "Menginstall Selasai Ganteng..." 
     cd SPAMer
     python2 SPAMer.py
+    fi
 elif [ $pilih = "0" ]
 then
     echo "Terima Kasih Karna Ente Sudah Menggunakan Tools Ane"
