@@ -14,10 +14,11 @@ yellow='\e[1;33m'
 white='\e[1;37m'
 
 clear
+echo \e[1;37m"
 echo "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ID.Jeky▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬" 
-echo "[✓] Author : ID Jekky" | lolcat
-echo "[✓] Youtobe : ID Jekky" | lolcat
-echo "[✓] Team : Bertobat" | lolcat
+echo "[✓] Author : ID Jekky"
+echo "[✓] Youtobe : ID Jekky"
+echo "[✓] Team : Bertobat" 
 echo "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
 echo "[1] Hack wifi" 
 echo "[2] Hack Instagram" 
