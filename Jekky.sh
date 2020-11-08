@@ -14,7 +14,7 @@ yellow='\e[1;33m'
 white='\e[1;37m'
 
 clear
-\e[1;37m
+\e[1;37m"
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ID.Jeky▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 [✓] Author : ID Jekky"
 [✓] Youtobe : ID Jekky"
