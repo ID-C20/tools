@@ -20,7 +20,7 @@ clear
 [✓] Youtobe : ID Jekky
 [✓] Team : Bertobat
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-\e[1;37m"
+"
 echo "[1] Hack wifi" 
 echo "[2] Hack Instagram" 
 echo "[3] Red Hack" 
