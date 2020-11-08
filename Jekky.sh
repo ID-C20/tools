@@ -46,7 +46,6 @@ then
 if [ $pilih = "2" ]
 then
     echo "Sedang Menginstall tunggu bentar Instagram..." 
-    sleep 2
     cd $HOME
     apt update && apt upgrade
     pkg install git 
@@ -71,8 +70,7 @@ then
     fi 
 if [ $pilih = "4" ]
 then 
-    echo "Sedang Menginstall tunggu bentar redhack..."
-    sleep2 
+    echo "Sedang Menginstall tunggu bentar redhack..." 
     cd $HOME
     apt update && apt upgrade  
     apt install git  
@@ -90,7 +88,7 @@ then
     clear
     exit
 fi
-done
+
 
 
     
