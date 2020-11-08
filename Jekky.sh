@@ -20,8 +20,7 @@ clear
 [✓] Youtobe : ID Jekky
 [✓] Team : Bertobat
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-\e[1;37m"
-
+\e[1;37m
 echo "[1] Hack wifi" 
 echo "[2] Hack Instagram" 
 echo "[3] Red Hack" 
@@ -86,10 +85,8 @@ then
     sleep 2
     clear
     exit
-else
-    echo "masukan input yang bener ya baik, keluar" 
-    sleep 5
 fi
+done
 
 
     
