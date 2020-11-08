@@ -16,11 +16,12 @@ white='\e[1;37m'
 clear
 \e[1;37m"
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ID.Jeky▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-[✓] Author : ID Jekky"
-[✓] Youtobe : ID Jekky"
-[✓] Team : Bertobat" 
+[✓] Author : ID Jekky
+[✓] Youtobe : ID Jekky
+[✓] Team : Bertobat
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 \e[1;37m"
+
 echo "[1] Hack wifi" 
 echo "[2] Hack Instagram" 
 echo "[3] Red Hack" 
