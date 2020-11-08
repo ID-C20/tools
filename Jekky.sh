@@ -33,13 +33,13 @@ then
     cd $HOME
     apt update && apt upgrade
     apt install python
-    git clone https://raw.github.com/derv82/wifite
-    echo "Menginstall Selasai Ganteng..." 
+    git clone https://raw.github.com/derv82/wifite 
     cd wifite
     chmod +x wifite.py
     python wifite.py
     fi
-elif [ $pilih = "2" ]
+    echo "Menginstall Selasai Ganteng..." 
+if [ $pilih = "2" ]
 then
     echo "Sedang Menginstall tunggu bentar Instagram..." 
     sleep 2
@@ -50,25 +50,24 @@ then
     pip2 install requests
     pkg install nodejs
     git clone https://github.com/ikiganteng/bot-igeh1
-    echo "Menginstall Selasai Ganteng..." | lolcat
     cd bot-igeh1
     unzip node_modules.zip
     node index
     fi
-elif [ $pilih = "3" ]
+    echo "Menginstall Selasai Ganteng..." 
+if [ $pilih = "3" ]
 then 
     echo "Sedang Menginstall tunggu bentar redhack..."
-    sleep2 
     cd $HOME
     apt update && apt upgrade  
     apt install git  
     apt install php 
-    git clone https://github.com/Tuhinshubhra/RED_HAWK
-    echo "Menginstall Selasai Ganteng..." 
+    git clone https://github.com/Tuhinshubhra/RED_HAWK 
     cd RED_HAWK
     php rhawk.php
     fi
-elif [ $pilih = "4" ]
+    echo "Menginstall Selasai Ganteng..." 
+if [ $pilih = "4" ]
 then 
     echo "Sedang Menginstall tunggu bentar redhack..."
     sleep2 
@@ -78,12 +77,12 @@ then
     pkg install python python2
     pip2 install mechanize
     pip2 install requests
-    git clone https://github.com/Bl4ckDr460n/SPAMer
-    echo "Menginstall Selasai Ganteng..." 
+    git clone https://github.com/Bl4ckDr460n/SPAMer 
     cd SPAMer
     python2 SPAMer.py
     fi
-elif [ $pilih = "0" ]
+    echo "Menginstall Selasai Ganteng..." 
+if [ $pilih = "0" ]
 then
     echo "Terima Kasih Karna Ente Sudah Menggunakan Tools Ane"
     sleep 2
